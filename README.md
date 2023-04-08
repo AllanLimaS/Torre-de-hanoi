@@ -1,6 +1,6 @@
 # Torre-de-hanoi
 
-Projeto desenvolvido no primeiro semestre do curso de Engenharia da computação na UNIVALI.
+Projeto desenvolvido no primeiro semestre do curso de Engenharia da computação na UNIVALI em 2018.
 Objetivo do projeto é criar um simulador completo para o desáfio da "torre de hanoi" utilizando conhecimentos adiquiridos sobre a linguagem C durante as aulas. 
 
 Descrição do desafio: 
